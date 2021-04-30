@@ -1,0 +1,6 @@
+*.log
+config.yml
+*.deb
+dist
+dist_src
+__pycache__
