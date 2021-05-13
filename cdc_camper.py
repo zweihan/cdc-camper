@@ -221,6 +221,7 @@ if __name__ == "__main__":
                             inform_user_if_earlier_session_available(
                                 config['username'], type=Types.PRACTICAL)
 
+                # TODO: enable this
                 # # Step 4: Check for road revision availability
                 # if config['check_rr']:
                 #     cdc_website.open_practical_lessons_booking(type=Types.ROAD_REVISION)
